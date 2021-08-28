@@ -1,1 +1,2 @@
-# Structuring
+# synchronousBallMovement
+Ball moving synchronously
